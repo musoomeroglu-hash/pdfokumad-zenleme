@@ -5,3 +5,4 @@ data/logs/
 data/islenmis.json
 .env
 .env.local
+release/
