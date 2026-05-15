@@ -1,0 +1,11 @@
+{
+  "zirvenetYolu": "D:\\Zirvenet",
+  "expressAktarimAltKlasor": "Express Aktarım",
+  "varsayilanHedefKlasor": "D:\\Faturalar",
+  "dosyaFormati": "hepsi",
+  "kopyalamaYontemi": "kopyala",
+  "iadeAyriKlasor": false,
+  "klasorSablonu": "{mukellefAdi}/{yil}-{ay}-{ayAdi}/{faturaTipi}",
+  "dosyaSablonu": "{faturaNo}.{uzanti}",
+  "duplikasyonKontrol": true
+}

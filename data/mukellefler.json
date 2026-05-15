@@ -1,0 +1,16 @@
+[
+  {
+    "vkn": "1234567890",
+    "ad": "Musa Ömeroğlu",
+    "zirveKlasorAdi": "MUSA OMEROGLU",
+    "entegrator": "Zirve Dönüşüm",
+    "aktif": true
+  },
+  {
+    "vkn": "0987654321",
+    "ad": "Emrah Çağıl",
+    "zirveKlasorAdi": "0987654321",
+    "entegrator": "Mysoft",
+    "aktif": true
+  }
+]
